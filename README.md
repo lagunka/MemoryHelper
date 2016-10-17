@@ -1,5 +1,5 @@
 # MemoryHelper
 
-A tool for processing some memory functions of a certain game published by Valve Inc.
+A tool for processing some memory modifications in Counter-Strike: Global Offensive.
 
-;)
+Concept Only.
